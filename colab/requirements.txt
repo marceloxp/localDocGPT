@@ -1,0 +1,16 @@
+# Natural Language Processing
+langchain
+chromadb==0.3.22
+llama-cpp-python
+pdfminer.six
+InstructorEmbedding
+sentence-transformers
+huggingface_hub
+transformers
+protobuf
+
+# Utilities
+urllib3
+accelerate
+bitsandbytes
+click
