@@ -5,7 +5,6 @@ llama-cpp-python
 pdfminer.six
 InstructorEmbedding
 sentence-transformers
-faiss-cpu
 huggingface_hub
 transformers
 protobuf
